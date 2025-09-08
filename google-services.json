@@ -1,26 +1,43 @@
 {
   "project_info": {
-    "project_number": "898122231082",
-    "project_id": "sensationzfirebaseauth",
-    "storage_bucket": "sensationzfirebaseauth.firebasestorage.app"
+    "project_number": "250289726308",
+    "project_id": "sens-development",
+    "storage_bucket": "sens-development.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:898122231082:android:bcd4744f04656b429f0253",
+        "mobilesdk_app_id": "1:250289726308:android:32f1f1150e3cb8d0475071",
         "android_client_info": {
           "package_name": "com.sensationz.sensationzANDROID"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "250289726308-foocc4om279ec8jbbrcdm1vghq8g57gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBkvP-C975S3DkZDxKuvOpAsR6oPjM6QkE"
+          "current_key": "AIzaSyDZmu3rbdjDHOnAya5TVkoip9jGMBvdt3I"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250289726308-foocc4om279ec8jbbrcdm1vghq8g57gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250289726308-gd8c647n7fujf4macr1hd1do31tknpm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sensationz.sensationzIOS"
+              }
+            }
+          ]
         }
       }
     }

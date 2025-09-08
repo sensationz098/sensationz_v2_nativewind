@@ -1,12 +1,8 @@
+import EnrolledCoursesScreen from "@/components/ui/CourseSection";
 import React from "react";
-import { Text, View } from "react-native";
 
 const CourseScreen = () => {
-  return (
-    <View>
-      <Text>CourseScreen</Text>
-    </View>
-  );
+  return <EnrolledCoursesScreen />;
 };
 
 export default CourseScreen;
