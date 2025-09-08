@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898122231082",
+    "project_id": "sensationzfirebaseauth",
+    "storage_bucket": "sensationzfirebaseauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898122231082:android:bcd4744f04656b429f0253",
+        "android_client_info": {
+          "package_name": "com.sensationz.sensationzANDROID"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvP-C975S3DkZDxKuvOpAsR6oPjM6QkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
